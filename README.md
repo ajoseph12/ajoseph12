@@ -3,9 +3,6 @@
 <a href="https://www.linkedin.com/in/allwyn-joseph/">
   <img align="left" alt="Allwyn Joseph | LinkedIn" width="20px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Allwyn Joseph | Twitter" width="21px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
 
 
 <br />
