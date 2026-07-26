@@ -8,10 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Allwyn Joseph, an inquisitive AI resercher based in Paris. 
-- I currently work at [AZmed](https://azmed.co/), helping develop anomaly detection within medical images using Deep Learning algorithms.
-- On the side, I'm also learning C++. JavaScript, React.
-- In the months to come, I'd like to get my hands dirty with Data Structures and Algorithms.
+Hi, I'm Allwyn Joseph, an inquisitive AI resercher based in Paris. I am currently working on [FittingMe](https://fittingme.ai/) - AI-powered virtual try-on and size recommendation to reduce fashion e-commerce returns
 
 
 **Languages and Tools:**  
