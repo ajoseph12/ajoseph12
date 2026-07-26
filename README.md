@@ -1,7 +1,7 @@
 ### Hi there, 👋
 
 <a href="https://www.linkedin.com/in/allwyn-joseph/">
-  <img align="left" alt="Allwyn Joseph | LinkedIn" width="20px" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" />
+  <img align="left" alt="Allwyn Joseph | LinkedIn" width="20px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
 
 
