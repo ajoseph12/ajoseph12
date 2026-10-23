@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Allwyn Joseph, an inquisitive AI resercher based in Paris. I am currently working on [FittingMe](https://fittingme.ai/) - AI-powered virtual try-on and size recommendation to reduce fashion e-commerce returns
+Hi, I'm Allwyn Joseph, an inquisitive AI Engineer based in Paris. I am currently working at [Conseil d’État](https://www.conseil-etat.fr/), helping with the AI transition using open-source AI models.
 
 
 **Languages and Tools:**  
